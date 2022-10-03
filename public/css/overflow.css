@@ -1,0 +1,26 @@
+.main-container {
+    overflow: hidden;
+}
+
+.content {
+    overflow: scroll;
+    height: 39.5rem;
+    overflow-x: auto;
+}
+
+.user-content {
+    overflow: scroll;
+    height: 39.5rem;
+    overflow-x: auto;
+}
+
+.house-content {
+    overflow: hidden;
+    height: 39.7rem;
+    overflow-x: hidden;
+}
+
+.mobile-content {
+    overflow: scroll;
+    overflow-x: hidden;
+}

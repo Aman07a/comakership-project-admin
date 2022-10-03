@@ -1,0 +1,150 @@
+/* Brokers */
+.table-number {
+    width: 4rem;
+}
+.table-company {
+    width: 60rem;
+}
+/* Created at */
+.table-datetime {
+    width: auto;
+    padding: 0 0.5rem 0 1rem;
+    text-align: center;
+}
+/* View, Store */
+.table-view {
+    width: auto;
+    padding: 0 0.5rem 0 0.5rem;
+    text-align: center;
+}
+.table-store {
+    width: auto;
+    padding: 0 1rem 0 0.5rem;
+    text-align: center;
+}
+.table-store-link {
+    background-color: #34495e;
+}
+.thead-background {
+    background: #ecf0f1;
+}
+.background-link {
+    background-color: #34495e;
+    transition: all 0.25s ease;
+}
+.background-link:hover {
+    background-color: #2980b9;
+}
+.background-dropdown-items {
+    background-color: #3498db;
+    transition: all 0.25s ease;
+}
+.background-dropdown-items:hover {
+    background-color: #2980b9;
+}
+/* #2980b9 */
+.view-link {
+    background-color: #3498db;
+    transition: all 0.25s ease;
+}
+.view-link:hover {
+    background-color: #2980b9;
+}
+.bg-submit {
+    background-color: #3498db !important;
+    transition: all 0.25s ease;
+}
+.bg-submit:hover {
+    background-color: #2980b9 !important;
+}
+.delete-link {
+    background-color: #e74c3c;
+    transition: all 0.25s ease;
+}
+.delete-link:hover {
+    background-color: #c0392b;
+}
+/* Custom dark grey */
+.business-dark-grey {
+    background-color: #34495e;
+}
+
+/* Checkbox */
+.checkbox:checked + .check-icon {
+    display: flex;
+}
+
+/** Custom Background Colors */
+.bg-green {
+    background-color: #2ecc71;
+}
+.bg-dark-green {
+    background-color: #27ae60;
+}
+.bg-blue {
+    background-color: #3498db;
+}
+.bg-dark-blue {
+    background-color: #2980b9;
+}
+.bg-yellow {
+    background-color: #f1c40f;
+}
+.bg-dark-yellow {
+    background-color: #f39c12;
+}
+.bg-orange {
+    background-color: #e67e22;
+}
+.bg-dark-orange {
+    background-color: #d35400;
+}
+.bg-red {
+    background-color: #e74c3c;
+}
+.bg-dark-red {
+    background-color: #c0392b;
+}
+.bg-gray {
+    background-color: #ecf0f1;
+}
+
+/** Custom Text Colors */
+.text-dark {
+    color: #34495e;
+}
+.text-dark-gray {
+    color: #7f8c8d;
+}
+
+/** Properties */
+.archive_properties {
+    grid-template-columns: 3fr 1fr 1fr 1fr;
+}
+
+/** Custom Width */
+.w-136 {
+    width: 34em;
+}
+.w-43-7-percent {
+    width: 43.7%;
+}
+.w-34-5 {
+    width: 34.5em;
+}
+.w-69-percent {
+    width: 69%;
+}
+.w-45 {
+    width: 45em;
+}
+
+/** Filter Logo */
+.invert-logo {
+    filter: invert(1);
+}
+
+/** Dropdown */
+.dropdown-inset {
+    inset: 0px auto auto 0px;
+}
